@@ -85,7 +85,7 @@ table {
 /* Generic styles ................... */
 /* ------------------------------------- */
 body {
-  font-family: "openSans", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 1.1em;
   line-height: 1.4;
   -webkit-font-smoothing: antialiased;
@@ -349,7 +349,7 @@ h6 {
 
 .main-logo {
   position: absolute;
-  max-width: 375px; }
+  max-width: 125px; }
   .main-logo.fixed {
     z-index: 2 !important; }
 
